@@ -588,7 +588,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
 
   teachers_survey:
     title: "Ankieta dla nauczycieli"
-#    must_be_logged: "You must be logged in first. Please create an account or log in from the menu above."
+#    must_be_logged: "Musisz sie najpierw zalogować.Prosz stworzyć konto albo zalogować sie w menu powyżej ."
 #    retrieving: "Retrieving information..."
 #    being_reviewed_1: "Your application for a free trial is being"
 #    being_reviewed_2: "reviewed."
@@ -596,7 +596,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
 #    approved_2: "approved!"
 #    approved_4: "You can now enroll your students on the"
 #    approved_5: "courses"
-#    approved_6: "page."
+#    approved_6: "strona."
 #    denied_1: "Your application for a free trial has been"
 #    denied_2: "denied."
 #    contact_1: "Please contact"
