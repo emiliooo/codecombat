@@ -1,6 +1,6 @@
 module.exports = nativeDescription: "polski", englishDescription: "Polish", translation:
   home:
-    slogan: "Naucz się programowania grając"
+    slogan: "Naucz się programowania grającc"
     no_ie: "CodeCombat nie działa na Internet Explorer 8 i starszych. Przepraszamy!" # Warning that only shows up in IE8 and older
     no_mobile: "CodeCombat nie został zaprojektowany dla urządzeń przenośnych, więc mogą występować pewne problemy w jego działaniu!" # Warning that shows up on mobile devices
     play: "Graj" # The big play button that opens up the campaign view.
